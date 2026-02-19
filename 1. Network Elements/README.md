@@ -47,7 +47,7 @@ Measures of how many connections an individual node has within the network.
   * Relationship with density in undirected networks: $$\langle k\rangle=\frac{2L}{N}=\frac{dN(N-1)}{N}=d(N-1)$$
 * **Directed Networks:** Nodes have an in-degree (number of incoming links) and an out-degree (number of outgoing links).
 * **Strength ($s_{i}$):** In a weighted network, the sum of the weights of a node's links: $$s_{i}=\sum_{j}w_{ij}$$
-  * For directed weighted networks: $$S_{i}^{in}=\sum_{j}w_{ji}$$and$$S_{i}^{out}=\sum_{j}w_{ij}$$
+  * For directed weighted networks: $$S_{i}^{in}=\sum_{j}w_{ji}$$ and $$S_{i}^{out}=\sum_{j}w_{ij}$$
 
 <br/>
 
