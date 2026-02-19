@@ -22,9 +22,9 @@ This repository is a space to log my journey of learning the core theories of ne
 Tracking progress according to the textbook's table of contents:
 
 ### **0. Introduction**
-- [ ] 0.1 Social Networks
-- [ ] 0.2 Communication & Transportation Networks
-- [ ] 0.3 The Web, Wikipedia, and The Internet
+- [x] 0.1 Social Networks
+- [x] 0.2 Communication & Transportation Networks
+- [x] 0.3 The Web, Wikipedia, and The Internet
 
 ### **1. Network Elements**
 - [ ] 1.1~1.2 Basic Definitions & Handling Networks in Code
