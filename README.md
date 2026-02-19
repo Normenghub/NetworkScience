@@ -34,11 +34,11 @@ Tracking progress according to the textbook's table of contents:
 - [x] 1.10 Drawing Networks (Visualization techniques)
 
 ### **2. Small Worlds**
-- [ ] 2.1 Birds of a Feather (Clustering)
-- [ ] 2.2 Paths and Distances
-- [ ] 2.3 Connectedness and Components
-- [ ] 2.5 Finding Shortest Paths (BFS/DFS)
-- [ ] 2.7 Six Degrees of Separation
+- [x] 2.1 Birds of a Feather (Clustering)
+- [x] 2.2 Paths and Distances
+- [x] 2.3 Connectedness and Components
+- [x] 2.5 Finding Shortest Paths (BFS/DFS)
+- [x] 2.7 Six Degrees of Separation
 
 ### **3. Hubs**
 - [ ] 3.1 Centrality Measures (Degree, Closeness, Betweenness)
