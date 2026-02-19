@@ -1,25 +1,25 @@
 # 🕸️ Network Science with Python
 
-이 저장소는 ***[A First Course in Network Science]*** 교재를 기반으로 네트워크 과학의 핵심 이론을 학습하고, **Python**으로 직접 구현한 기록을 남기는 공간입니다.
+This repository is a space to log my journey of learning the core theories of network science, based on the textbook ***[A First Course in Network Science]***, and implementing them directly in **Python**.
 
 ## 📘 About The Project
 
 * **Textbook:** *A First Course in Network Science* by Filippo Menczer, Santo Fortunato, and Clayton A. Davis
-* **Goal:** 교재의 챕터별 이론을 요약하고, `NetworkX` 등 파이썬 라이브러리를 활용하여 예제 및 연습문제를 구현합니다.
-* **Focus:** 이론적 개념(Theory)의 이해와 코드 구현(Implementation)의 병행
+* **Goal:** Summarize the core theories of each chapter and implement examples and exercises using Python libraries such as `NetworkX`.
+* **Focus:** Bridging the gap between theoretical understanding (Theory) and practical code implementation (Implementation).
 
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.x
 * **Core Libraries:**
-  * `NetworkX`: 그래프 생성, 조작, 구조 분석, 그림 그리기
-  * `NumPy` / `Pandas`: 데이터 처리 및 행렬 연산
-  * `Matplotlib` / `Seaborn`: 네트워크 시각화 및 통계 플로팅
-  * `Jupyter Notebook`: 실습 및 결과 리포트
+  * `NetworkX`: Graph creation, manipulation, structural analysis, and drawing
+  * `NumPy` / `Pandas`: Data processing and matrix operations
+  * `Matplotlib` / `Seaborn`: Network visualization and statistical plotting
+  * `Jupyter Notebook`: Hands-on practice and result reporting
 
 ## 🗂️ Curriculum & Progress
 
-교재의 목차에 따라 진행 상황을 체크합니다.
+Tracking progress according to the textbook's table of contents:
 
 ### **0. Introduction**
 - [ ] 0.1 Social Networks
@@ -74,15 +74,15 @@
 
 ## 📂 Repository Structure
 
-각 챕터별 실습 코드는 아래 폴더 구조로 관리됩니다.
+The practice codes for each chapter are organized into the following directory structure:
 
 ```bash
-├── 00_Introduction/       # 네트워크 데이터셋 로딩 및 기초 탐색
-├── 01_Network_Elements/   # NetworkX 기초, 그래프 속성 계산
-├── 02_Small_Worlds/       # 경로 탐색, 군집 계수, 좁은 세상 효과 시뮬레이션
-├── 03_Hubs/               # 중심성 측정, 멱함수 분포 분석, 로버스트니스 테스트
-├── 04_Directions_Weights/ # 페이지랭크 구현, 가중치 네트워크 분석
-├── 05_Network_Models/     # ER, WS, BA 모델 생성 및 비교
-├── 06_Communities/        # 커뮤니티 탐지 알고리즘 적용 및 시각화
-├── 07_Dynamics/           # 전파 모델(SIR) 시뮬레이션
-└── data/                  # 실습에 사용되는 네트워크 데이터셋 (GML, Edge list 등)
+├── 00_Introduction/       # Loading network datasets and basic exploration
+├── 01_Network_Elements/   # NetworkX basics, calculating graph properties
+├── 02_Small_Worlds/       # Pathfinding, clustering coefficients, small-world simulations
+├── 03_Hubs/               # Centrality measures, power-law distribution, robustness tests
+├── 04_Directions_Weights/ # PageRank implementation, weighted network analysis
+├── 05_Network_Models/     # Generating and comparing ER, WS, and BA models
+├── 06_Communities/        # Applying and visualizing community detection algorithms
+├── 07_Dynamics/           # Simulating spreading models (e.g., SIR)
+└── data/                  # Network datasets used for practice (GML, Edge list, etc.)
