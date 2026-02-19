@@ -27,11 +27,11 @@ Tracking progress according to the textbook's table of contents:
 - [x] 0.3 The Web, Wikipedia, and The Internet
 
 ### **1. Network Elements**
-- [ ] 1.1~1.2 Basic Definitions & Handling Networks in Code
-- [ ] 1.3 Density and Sparsity
-- [ ] 1.5 Degree & Degree Distribution
-- [ ] 1.6~1.7 Directed & Weighted Networks
-- [ ] 1.10 Drawing Networks (Visualization techniques)
+- [x] 1.1~1.2 Basic Definitions & Handling Networks in Code
+- [x] 1.3 Density and Sparsity
+- [x] 1.5 Degree & Degree Distribution
+- [x] 1.6~1.7 Directed & Weighted Networks
+- [x] 1.10 Drawing Networks (Visualization techniques)
 
 ### **2. Small Worlds**
 - [ ] 2.1 Birds of a Feather (Clustering)
