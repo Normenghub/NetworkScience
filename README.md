@@ -71,18 +71,3 @@ Tracking progress according to the textbook's table of contents:
 - [ ] 7.4 Search in Networks
 
 <br/>
-
-## 📂 Repository Structure
-
-The practice codes for each chapter are organized into the following directory structure:
-
-```bash
-├── 00_Introduction/       # Loading network datasets and basic exploration
-├── 01_Network_Elements/   # NetworkX basics, calculating graph properties
-├── 02_Small_Worlds/       # Pathfinding, clustering coefficients, small-world simulations
-├── 03_Hubs/               # Centrality measures, power-law distribution, robustness tests
-├── 04_Directions_Weights/ # PageRank implementation, weighted network analysis
-├── 05_Network_Models/     # Generating and comparing ER, WS, and BA models
-├── 06_Communities/        # Applying and visualizing community detection algorithms
-├── 07_Dynamics/           # Simulating spreading models (e.g., SIR)
-└── data/                  # Network datasets used for practice (GML, Edge list, etc.)
