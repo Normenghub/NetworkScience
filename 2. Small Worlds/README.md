@@ -22,11 +22,16 @@ Concepts and metrics used to define and measure distances among nodes in a netwo
 * **Path & Shortest Path:** A path is a sequence of traversed links. The shortest path minimizes the number of links traversed.
 * **Average Path Length ($\langle l \rangle$):** Obtained by averaging the shortest-path lengths across all pairs of nodes.
   * For an undirected, unweighted network:
-    $$\langle l\rangle=\frac{\sum_{ij}l_{ij}}{\binom{N}{2}}=\frac{2\sum_{ij}l_{ij}}{N(N-1)}$$
+
+$$\langle l\rangle=\frac{\sum_{ij}l_{ij}}{\binom{N}{2}}=\frac{2\sum_{ij}l_{ij}}{N(N-1)}$$
+
   * For a directed network:
-    $$\langle l\rangle=\frac{\sum_{ij}l_{ij}}{N(N-1)}$$
+
+$$\langle l\rangle=\frac{\sum_{ij}l_{ij}}{N(N-1)}$$
+
 * **Diameter ($l_{max}$):** The maximum shortest-path length across all pairs of nodes:
-  $$l_{max}=max_{i,j}l_{ij}$$
+
+$$l_{max}=\max_{i,j}l_{ij}$$
 
 <br/>
 
@@ -48,7 +53,9 @@ A special class of undirected, connected networks.
 
 * **Definition:** A connected network such that the deletion of any one link will disconnect the network into two components.
 * **Properties:** Trees have no cycles, and the number of links is exactly:
-  $$L=N-1$$
+
+$$L=N-1$$
+
 * **Hierarchy:** Trees are hierarchical, featuring a root, parent nodes, children nodes, and leaves.
 
 <br/>
@@ -67,7 +74,9 @@ Algorithms used to navigate and find short distances in a network.
 The phenomenon where average path lengths in real-world networks are surprisingly short.
 
 * **Small World Property:** The popular notion that social distances are short, meaning the path length scales logarithmically with network size:
-  $$\langle l\rangle \sim \log N$$
+
+$$\langle l\rangle \sim \log N$$
+
 * **Six Degrees of Separation:** The idea that any two people in the world are connected by a short chain of acquaintances, popularized by Milgram's experiment.
 
 <br/>
@@ -78,6 +87,9 @@ The local structure capturing how tightly knit, or clustered, the network's node
 
 * **Triangles & Triadic Closure:** A triangle is a triad where each pair of nodes is connected. Meeting people through shared contacts and closing these triangles is triadic closure.
 * **Node Clustering Coefficient ($C(i)$):** The fraction of pairs of a node's neighbors that are connected to each other:
-  $$C(i)=\frac{\tau(i)}{\tau_{max}(i)}=\frac{\tau(i)}{\binom{k_{i}}{2}}=\frac{2\tau(i)}{k_{i}(k_{i}-1)}$$
+
+$$C(i)=\frac{\tau(i)}{\tau_{max}(i)}=\frac{\tau(i)}{\binom{k_{i}}{2}}=\frac{2\tau(i)}{k_{i}(k_{i}-1)}$$
+
 * **Network Clustering Coefficient ($C$):** The average of the clustering coefficients across all valid nodes:
-  $$C=\frac{\sum_{i:k_{i}>1}C(i)}{N_{k>1}}$$
+
+$$C=\frac{\sum_{i:k_{i}>1}C(i)}{N_{k>1}}$$
