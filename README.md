@@ -27,31 +27,31 @@ Tracking progress according to the textbook's table of contents:
 - [x] 0.3 The Web, Wikipedia, and The Internet
 
 ### **1. Network Elements**
-- [ ] 1.1~1.2 Basic Definitions & Handling Networks in Code
-- [ ] 1.3 Density and Sparsity
-- [ ] 1.5 Degree & Degree Distribution
-- [ ] 1.6~1.7 Directed & Weighted Networks
-- [ ] 1.10 Drawing Networks (Visualization techniques)
+- [x] 1.1~1.2 Basic Definitions & Handling Networks in Code
+- [x] 1.3 Density and Sparsity
+- [x] 1.5 Degree & Degree Distribution
+- [x] 1.6~1.7 Directed & Weighted Networks
+- [x] 1.10 Drawing Networks (Visualization techniques)
 
 ### **2. Small Worlds**
-- [ ] 2.1 Birds of a Feather (Clustering)
-- [ ] 2.2 Paths and Distances
-- [ ] 2.3 Connectedness and Components
-- [ ] 2.5 Finding Shortest Paths (BFS/DFS)
-- [ ] 2.7 Six Degrees of Separation
+- [x] 2.1 Birds of a Feather (Clustering)
+- [x] 2.2 Paths and Distances
+- [x] 2.3 Connectedness and Components
+- [x] 2.5 Finding Shortest Paths (BFS/DFS)
+- [x] 2.7 Six Degrees of Separation
 
 ### **3. Hubs**
-- [ ] 3.1 Centrality Measures (Degree, Closeness, Betweenness)
-- [ ] 3.2 Centrality Distributions (Power Laws)
-- [ ] 3.3 The Friendship Paradox
-- [ ] 3.5 Robustness (Resilience to attacks/failures)
-- [ ] 3.6 Core Decomposition
+- [x] 3.1 Centrality Measures (Degree, Closeness, Betweenness)
+- [x] 3.2 Centrality Distributions (Power Laws)
+- [x] 3.3 The Friendship Paradox
+- [x] 3.5 Robustness (Resilience to attacks/failures)
+- [x] 3.6 Core Decomposition
 
 ### **4. Directions and Weights**
-- [ ] 4.1 Directed Networks & The Web (Bow-tie structure)
-- [ ] 4.3 PageRank Algorithm
-- [ ] 4.4 Weighted Networks
-- [ ] 4.6 Co-occurrence Networks
+- [x] 4.1 Directed Networks & The Web (Bow-tie structure)
+- [x] 4.3 PageRank Algorithm
+- [x] 4.4 Weighted Networks
+- [x] 4.6 Co-occurrence Networks
 
 ### **5. Network Models**
 - [ ] 5.1 Random Networks (Erdős-Rényi)
