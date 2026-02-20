@@ -41,11 +41,11 @@ Tracking progress according to the textbook's table of contents:
 - [x] 2.7 Six Degrees of Separation
 
 ### **3. Hubs**
-- [ ] 3.1 Centrality Measures (Degree, Closeness, Betweenness)
-- [ ] 3.2 Centrality Distributions (Power Laws)
-- [ ] 3.3 The Friendship Paradox
-- [ ] 3.5 Robustness (Resilience to attacks/failures)
-- [ ] 3.6 Core Decomposition
+- [x] 3.1 Centrality Measures (Degree, Closeness, Betweenness)
+- [x] 3.2 Centrality Distributions (Power Laws)
+- [x] 3.3 The Friendship Paradox
+- [x] 3.5 Robustness (Resilience to attacks/failures)
+- [x] 3.6 Core Decomposition
 
 ### **4. Directions and Weights**
 - [ ] 4.1 Directed Networks & The Web (Bow-tie structure)
