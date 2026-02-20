@@ -48,10 +48,10 @@ Tracking progress according to the textbook's table of contents:
 - [x] 3.6 Core Decomposition
 
 ### **4. Directions and Weights**
-- [ ] 4.1 Directed Networks & The Web (Bow-tie structure)
-- [ ] 4.3 PageRank Algorithm
-- [ ] 4.4 Weighted Networks
-- [ ] 4.6 Co-occurrence Networks
+- [x] 4.1 Directed Networks & The Web (Bow-tie structure)
+- [x] 4.3 PageRank Algorithm
+- [x] 4.4 Weighted Networks
+- [x] 4.6 Co-occurrence Networks
 
 ### **5. Network Models**
 - [ ] 5.1 Random Networks (Erdős-Rényi)
