@@ -60,14 +60,14 @@ Tracking progress according to the textbook's table of contents:
 - [x] 5.4 Preferential Attachment (Barabási-Albert)
 
 ### **6. Communities**
-- [ ] 6.1 Basic Definitions (Cliques, Clusters)
-- [ ] 6.3 Community Detection Algorithms (Modularity, Louvain)
-- [ ] 6.4 Method Evaluation
+- [x] 6.1 Basic Definitions (Cliques, Clusters)
+- [x] 6.3 Community Detection Algorithms (Modularity, Louvain)
+- [x] 6.4 Method Evaluation
 
 ### **7. Dynamics**
-- [ ] 7.1 Ideas, Information, Influence (Threshold models)
-- [ ] 7.2 Epidemic Spreading (SI, SIR, SIS models)
-- [ ] 7.3 Opinion Dynamics
-- [ ] 7.4 Search in Networks
+- [x] 7.1 Ideas, Information, Influence (Threshold models)
+- [x] 7.2 Epidemic Spreading (SI, SIR, SIS models)
+- [x] 7.3 Opinion Dynamics
+- [x] 7.4 Search in Networks
 
 <br/>
