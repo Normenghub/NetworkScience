@@ -31,6 +31,3 @@ This document outlines the fundamental concepts and types of 'networks' that def
 * At a higher level, connections between neural cells (synapses) create the neural networks in our brains.
 * At the species level, animals interact to form ecological networks or food webs. Removing a node (e.g., when a species goes extinct) affects the survival of other parts of the ecosystem network.
 
----
-
-**Summary:** Networks are a general way to model and study complex systems, showing that nodes can represent many different types of objects, from people and Web pages to species and Internet routers.
