@@ -57,7 +57,7 @@ Tracking progress according to the textbook's table of contents:
 - [x] 5.1 Random Networks (Erdős-Rényi)
 - [x] 5.2 Small Worlds (Watts-Strogatz)
 - [x] 5.3 Configuration Model
-- [ ] 5.4 Preferential Attachment (Barabási-Albert)
+- [x] 5.4 Preferential Attachment (Barabási-Albert)
 
 ### **6. Communities**
 - [ ] 6.1 Basic Definitions (Cliques, Clusters)
